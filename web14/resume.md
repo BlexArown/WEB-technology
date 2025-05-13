@@ -19,7 +19,7 @@
 
 ## Пример использования
 ### 1. Вы имеете возможность редакировать файлы прямо на странице.
-![image]((https://github.com/BlexArown/WEB-technology/blob/main/web14/Screens/screen%201.png)
+![image](https://github.com/BlexArown/WEB-technology/blob/main/web14/Screens/screen%201.png)
 
 ---
 ### 2. После внесения редакций на странице html, вы можете скачать отредактированный файл.
