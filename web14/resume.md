@@ -13,7 +13,7 @@
 
 ## Вы можете скачать мой проект с github либо напрямую с сайта Replit
 
-[Replit]([https://replit.com/@pastukhovaleksa/web14])
+[Replit](https://replit.com/@pastukhovaleksa/web14)
 
 ---
 
